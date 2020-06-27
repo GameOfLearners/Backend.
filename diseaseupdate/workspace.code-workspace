@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\DJANGO"
+		},
+		{
+			"name": "Mizizi Backend",
+			"path": "..\\DJANGO\\Mizizi Backend"
+		}
+	],
+	"settings": {}
+}
