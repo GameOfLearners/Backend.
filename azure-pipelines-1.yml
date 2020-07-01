@@ -54,5 +54,6 @@ steps:
     testResultsFiles: "**/TEST-*.xml"
     testRunTitle: 'Python $(PYTHON_VERSION)'
   condition: succeededOrFailed()
+  
 - task: PublishBuildArtifacts@1
 
